@@ -1,0 +1,3 @@
+Take in input of an English word and convert it into Pig Latin. Read wiki to find rules. 
+
+https://en.wikipedia.org/wiki/Pig_Latin
