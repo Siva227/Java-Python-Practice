@@ -7,6 +7,7 @@ public class PigLatinMain {
 		System.out.println("Enter word for conversion: ");
 		String input = reader.next();
 		reader.close();
-		new PigLatinConverter(input);		
+		new PigLatinConverter(input);	
+		System.out.println("oneDay! ;)")
 	}
 }
